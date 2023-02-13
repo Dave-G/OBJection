@@ -22,5 +22,3 @@ After installation, it's as simple as going to the Import menu and selecting the
 
 ## Credit
 Special thanks to poor for making the original iteration of this utility, from: https://blender.stackexchange.com/questions/5064/how-to-batch-import-wavefront-obj-files
-
-You can find more of my work on Twitter: https://twitter.com/entropy_phi
